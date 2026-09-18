@@ -1,0 +1,6 @@
+{
+  "name": "Magnesium Complex Maroc",
+  "description": "المتجر المغربي الرسمي لمركب المغنيسيوم 20 في 1 للنساء - نوم عميق، راحة الأعصاب، وتوازن الهرمونات مع الدفع عند الاستلام والتوصيل بالمجان بالمغرب.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
